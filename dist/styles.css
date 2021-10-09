@@ -17791,7 +17791,7 @@ video {
 }
 
 .bg-hero-bg {
-  background-image: url('/images/background.jpg');
+  background-image: url('./images/background.jpg');
 }
 
 .from-transparent {
@@ -49375,7 +49375,7 @@ video {
   }
 
   .sm\:bg-hero-bg {
-    background-image: url('/images/background.jpg');
+    background-image: url('./images/background.jpg');
   }
 
   .sm\:from-transparent {
@@ -80607,7 +80607,7 @@ video {
   }
 
   .md\:bg-hero-bg {
-    background-image: url('/images/background.jpg');
+    background-image: url('./images/background.jpg');
   }
 
   .md\:from-transparent {
@@ -111839,7 +111839,7 @@ video {
   }
 
   .lg\:bg-hero-bg {
-    background-image: url('/images/background.jpg');
+    background-image: url('./images/background.jpg');
   }
 
   .lg\:from-transparent {
@@ -143071,7 +143071,7 @@ video {
   }
 
   .xl\:bg-hero-bg {
-    background-image: url('/images/background.jpg');
+    background-image: url('./images/background.jpg');
   }
 
   .xl\:from-transparent {
@@ -174303,7 +174303,7 @@ video {
   }
 
   .\32xl\:bg-hero-bg {
-    background-image: url('/images/background.jpg');
+    background-image: url('./images/background.jpg');
   }
 
   .\32xl\:from-transparent {
